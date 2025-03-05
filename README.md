@@ -40,7 +40,7 @@ O projeto utiliza **Python** e bibliotecas estatísticas para realizar a explora
 ## 🚀 Como Executar o Projeto
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/pnad-2015.git
+   git clone https://github.com/JessicaSTMatos/Curso_Python_Estatistica_2.git
    ```
 2. Acesse o diretório do projeto:
    ```bash
